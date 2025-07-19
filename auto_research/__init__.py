@@ -1,0 +1,1 @@
+"""Auto Research package for AI quadrant classification.""" 
